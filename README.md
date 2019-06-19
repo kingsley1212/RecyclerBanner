@@ -1,4 +1,8 @@
 # RecyclerBanner
+
+# 注意注意
+# 这个是我上传别人的代码，仅供自己以后学习
+
 ## 介绍
 RecyclerBanner是一个利用RecycleView实现轮播图的自定义控件。
 
